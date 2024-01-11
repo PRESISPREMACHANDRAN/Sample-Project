@@ -2,7 +2,12 @@ import React from 'react'
 
 const ViewStudent = () => {
   return (
-    <div>ViewStudent</div>
+ <div className="container">
+      <p> test </p>
+      <p> Delete student</p>
+ </div>
+
+
   )
 }
 
